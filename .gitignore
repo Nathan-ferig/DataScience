@@ -1,5 +1,5 @@
-**curso-sql
-**curso-postgres
-**curso-sqlite
-**exercicios
+.ipynb_checkpoints/
+data_files/
+
+*.csv
 *.bak
