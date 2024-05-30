@@ -3,3 +3,4 @@ data_files/
 
 *.csv
 *.bak
+*.json
