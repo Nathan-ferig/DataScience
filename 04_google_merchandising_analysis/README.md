@@ -1,4 +1,4 @@
-# Retail and Customer Analytics
+# Google Merchandising Analysis
 
 This repository contains a set of sql queries that handles data transformation and cleaning and a jupyter notebooks that handles analytical problems: user segmentation and propensity to buy.
 
